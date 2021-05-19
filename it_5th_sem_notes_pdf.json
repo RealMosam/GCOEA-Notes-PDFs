@@ -1,32 +1,32 @@
 [
-{
-"pdfId":1,
-"id":1,
-"title":"CSU501_SP",
-"downloadPDFUrl":"https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU501_SP.pdf",
-},
-{
-"pdfId":2,
-"id":2,
-"title":"CSU502_TOC",
-"downloadPDFUrl":"https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU502_TOC.pdf",
-},
-{
-"pdfId":3,
-"id":3,
-"title":"CSU503_POM",
-"downloadPDFUrl":"https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU503_POM.pdf",
-},
-{
-"pdfId":4,
-"id":4,
-"title":"ITU501_SAD",
-"downloadPDFUrl":"https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/ITU501_SAD.pdf",
-},
-{
-"pdfId":5,
-"id":5,
-"title":"ITU502_DBMS",
-"downloadPDFUrl":"https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/ITU502_DBMS.pdf",
-},
+  {
+    "pdfId": 1,
+    "id": 1,
+    "title": "CSU501_SP",
+    "downloadPDFUrl": "https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU501_SP.pdf"
+  },
+  {
+    "pdfId": 2,
+    "id": 2,
+    "title": "CSU502_TOC",
+    "downloadPDFUrl": "https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU502_TOC.pdf"
+  },
+  {
+    "pdfId": 3,
+    "id": 3,
+    "title": "CSU503_POM",
+    "downloadPDFUrl": "https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/CSU503_POM.pdf"
+  },
+  {
+    "pdfId": 4,
+    "id": 4,
+    "title": "ITU501_SAD",
+    "downloadPDFUrl": "https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/ITU501_SAD.pdf"
+  },
+  {
+    "pdfId": 5,
+    "id": 5,
+    "title": "ITU502_DBMS",
+    "downloadPDFUrl": "https://github.com/RealMosam/GCOEA-Notes-PDFs/raw/main/ITU502_DBMS.pdf"
+  }
 ]
